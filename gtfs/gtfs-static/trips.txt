@@ -1,0 +1,1147 @@
+trip_id,route_id,service_id,trip_headsign,trip_short_name,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+1015020,1,1,"Downtown to Southgate Mall",,0,12,shp-1-51,0,0
+1035020,1,1,"Downtown to Southgate Mall",,0,22,shp-1-51,0,0
+1036020,1,1,"Downtown to Southgate Mall",,0,12,shp-1-51,0,0
+1033020,1,1,"Downtown to Southgate Mall",,0,15,shp-1-51,0,0
+1042010,1,3,"Downtown to Southgate Mall",,0,62,shp-1-51,0,0
+1047070,1,2,"Downtown to Southgate Mall",,0,42,shp-1-51,0,0
+1051020,1,1,"Downtown to Southgate Mall",,0,292,shp-1-51,0,0
+1059020,1,1,"Downtown to Southgate Mall",,0,22,shp-1-51,0,0
+1068020,1,1,"Downtown to Southgate Mall",,0,15,shp-1-51,0,0
+1071010,1,3,"Downtown to Southgate Mall",,0,62,shp-1-51,0,0
+1084020,1,1,"Downtown to Southgate Mall",,0,22,shp-1-51,0,0
+1089010,1,3,"Downtown to Southgate Mall",,0,65,shp-1-51,0,0
+116020,1,1,"Downtown to Southgate Mall",,0,22,shp-1-51,0,0
+144020,1,1,"Downtown to Southgate Mall",,0,12,shp-1-51,0,0
+182070,1,2,"Downtown to Southgate Mall",,0,42,shp-1-51,0,0
+219020,1,1,"Downtown to Southgate Mall",,0,12,shp-1-51,0,0
+216020,1,1,"Downtown to Southgate Mall",,0,18,shp-1-51,0,0
+231020,1,1,"Downtown to Southgate Mall",,0,301,shp-1-51,0,0
+235020,1,1,"Downtown to Southgate Mall",,0,281,shp-1-51,0,0
+237070,1,2,"Downtown to Southgate Mall",,0,45,shp-1-51,0,0
+239020,1,1,"Downtown to Southgate Mall",,0,12,shp-1-51,0,0
+249020,1,1,"Downtown to Southgate Mall",,0,22,shp-1-51,0,0
+257020,1,1,"Downtown to Southgate Mall",,0,15,shp-1-51,0,0
+263010,1,3,"Downtown to Southgate Mall",,0,62,shp-1-51,0,0
+266020,1,1,"Downtown to Southgate Mall",,0,13,shp-1-51,0,0
+275020,1,1,"Downtown to Southgate Mall",,0,14,shp-1-51,0,0
+300020,1,1,"Downtown to Southgate Mall",,0,11,shp-1-51,0,0
+305070,1,2,"Downtown to Southgate Mall",,0,542,shp-1-51,0,0
+313020,1,1,"Downtown to Southgate Mall",,0,11,shp-1-51,0,0
+33020,1,1,"Downtown to Southgate Mall",,0,311,shp-1-51,0,0
+336020,1,1,"Downtown to Southgate Mall",,0,14,shp-1-51,0,0
+337020,1,1,"Downtown to Southgate Mall",,0,301,shp-1-51,0,0
+383010,1,3,"Downtown to Southgate Mall",,0,62,shp-1-51,0,0
+395020,1,1,"Downtown to Southgate Mall",,0,12,shp-1-51,0,0
+402020,1,1,"Downtown to Southgate Mall",,0,11,shp-1-51,0,0
+410020,1,1,"Downtown to Southgate Mall",,0,22,shp-1-51,0,0
+419020,1,1,"Downtown to Southgate Mall",,0,2,shp-1-51,0,0
+426020,1,1,"Downtown to Southgate Mall",,0,13,shp-1-51,0,0
+428020,1,1,"Downtown to Southgate Mall",,0,14,shp-1-51,0,0
+470020,1,1,"Downtown to Southgate Mall",,0,301,shp-1-51,0,0
+472010,1,3,"Downtown to Southgate Mall",,0,65,shp-1-51,0,0
+480020,1,1,"Downtown to Southgate Mall",,0,2,shp-1-51,0,0
+486020,1,1,"Downtown to Southgate Mall",,0,301,shp-1-51,0,0
+497020,1,1,"Downtown to Southgate Mall",,0,15,shp-1-51,0,0
+5020,1,1,"Downtown to Southgate Mall",,0,311,shp-1-51,0,0
+503010,1,3,"Downtown to Southgate Mall",,0,65,shp-1-51,0,0
+512020,1,1,"Downtown to Southgate Mall",,0,18,shp-1-51,0,0
+521010,1,3,"Downtown to Southgate Mall",,0,62,shp-1-51,0,0
+538020,1,1,"Downtown to Southgate Mall",,0,301,shp-1-51,0,0
+544020,1,1,"Downtown to Southgate Mall",,0,13,shp-1-51,0,0
+612020,1,1,"Downtown to Southgate Mall",,0,11,shp-1-51,0,0
+629070,1,2,"Downtown to Southgate Mall",,0,542,shp-1-51,0,0
+635070,1,2,"Downtown to Southgate Mall",,0,42,shp-1-51,0,0
+646070,1,2,"Downtown to Southgate Mall",,0,542,shp-1-51,0,0
+652070,1,2,"Downtown to Southgate Mall",,0,542,shp-1-51,0,0
+653070,1,2,"Downtown to Southgate Mall",,0,42,shp-1-51,0,0
+691010,1,3,"Downtown to Southgate Mall",,0,65,shp-1-51,0,0
+718020,1,1,"Downtown to Southgate Mall",,0,311,shp-1-51,0,0
+739020,1,1,"Downtown to Southgate Mall",,0,2,shp-1-51,0,0
+748070,1,2,"Downtown to Southgate Mall",,0,42,shp-1-51,0,0
+768070,1,2,"Downtown to Southgate Mall",,0,42,shp-1-51,0,0
+790020,1,1,"Downtown to Southgate Mall",,0,15,shp-1-51,0,0
+79010,1,3,"Downtown to Southgate Mall",,0,65,shp-1-51,0,0
+791020,1,1,"Downtown to Southgate Mall",,0,292,shp-1-51,0,0
+794020,1,1,"Downtown to Southgate Mall",,0,12,shp-1-51,0,0
+860020,1,1,"Downtown to Southgate Mall",,0,2,shp-1-51,0,0
+867010,1,3,"Downtown to Southgate Mall",,0,62,shp-1-51,0,0
+882070,1,2,"Downtown to Southgate Mall",,0,542,shp-1-51,0,0
+898070,1,2,"Downtown to Southgate Mall",,0,42,shp-1-51,0,0
+899070,1,2,"Downtown to Southgate Mall",,0,42,shp-1-51,0,0
+909020,1,1,"Downtown to Southgate Mall",,0,14,shp-1-51,0,0
+964020,1,1,"Downtown to Southgate Mall",,0,13,shp-1-51,0,0
+967020,1,1,"Downtown to Southgate Mall",,0,22,shp-1-51,0,0
+976020,1,1,"Downtown to Southgate Mall",,0,22,shp-1-51,0,0
+982010,1,3,"Downtown to Southgate Mall",,0,65,shp-1-51,0,0
+985020,1,1,"Downtown to Southgate Mall",,0,12,shp-1-51,0,0
+999020,1,1,"Downtown to Southgate Mall",,0,15,shp-1-51,0,0
+996020,1,1,"Southgate Mall to Downtown",,1,15,shp-1-01,0,0
+983020,1,1,"Southgate Mall to Downtown",,1,23,shp-1-01,0,0
+945020,1,1,"Southgate Mall to Downtown",,1,19,shp-1-01,0,0
+907020,1,1,"Southgate Mall to Downtown",,1,14,shp-1-01,0,0
+92070,1,2,"Southgate Mall to Downtown",,1,541,shp-1-01,0,0
+89020,1,1,"Southgate Mall to Downtown",,1,3,shp-1-01,0,0
+891010,1,3,"Southgate Mall to Downtown",,1,63,shp-1-01,0,0
+896020,1,1,"Southgate Mall to Downtown",,1,26,shp-1-01,0,0
+873070,1,2,"Southgate Mall to Downtown",,1,551,shp-1-01,0,0
+864010,1,3,"Southgate Mall to Downtown",,1,63,shp-1-01,0,0
+855020,1,1,"Southgate Mall to Downtown",,1,26,shp-1-01,0,0
+841070,1,2,"Southgate Mall to Downtown",,1,48,shp-1-01,0,0
+808010,1,3,"Southgate Mall to Downtown",,1,702,shp-1-01,0,0
+809020,1,1,"Southgate Mall to Downtown",,1,8,shp-1-01,0,0
+812020,1,1,"Southgate Mall to Downtown",,1,11,shp-1-01,0,0
+825020,1,1,"Southgate Mall to Downtown",,1,19,shp-1-01,0,0
+826020,1,1,"Southgate Mall to Downtown",,1,24,shp-1-01,0,0
+830020,1,1,"Southgate Mall to Downtown",,1,26,shp-1-01,0,0
+83010,1,3,"Southgate Mall to Downtown",,1,63,shp-1-01,0,0
+783020,1,1,"Southgate Mall to Downtown",,1,23,shp-1-01,0,0
+805020,1,1,"Southgate Mall to Downtown",,1,19,shp-1-01,0,0
+776010,1,3,"Southgate Mall to Downtown",,1,702,shp-1-01,0,0
+76020,1,1,"Southgate Mall to Downtown",,1,8,shp-1-01,0,0
+738010,1,3,"Southgate Mall to Downtown",,1,702,shp-1-01,0,0
+716010,1,3,"Southgate Mall to Downtown",,1,63,shp-1-01,0,0
+729020,1,1,"Southgate Mall to Downtown",,1,25,shp-1-01,0,0
+664020,1,1,"Southgate Mall to Downtown",,1,19,shp-1-01,0,0
+623070,1,2,"Southgate Mall to Downtown",,1,48,shp-1-01,0,0
+613070,1,2,"Southgate Mall to Downtown",,1,48,shp-1-01,0,0
+54020,1,1,"Southgate Mall to Downtown",,1,4,shp-1-01,0,0
+517020,1,1,"Southgate Mall to Downtown",,1,11,shp-1-01,0,0
+524020,1,1,"Southgate Mall to Downtown",,1,15,shp-1-01,0,0
+51070,1,2,"Southgate Mall to Downtown",,1,541,shp-1-01,0,0
+50020,1,1,"Southgate Mall to Downtown",,1,4,shp-1-01,0,0
+495070,1,2,"Southgate Mall to Downtown",,1,48,shp-1-01,0,0
+556020,1,1,"Southgate Mall to Downtown",,1,14,shp-1-01,0,0
+595070,1,2,"Southgate Mall to Downtown",,1,48,shp-1-01,0,0
+597020,1,1,"Southgate Mall to Downtown",,1,4,shp-1-01,0,0
+606020,1,1,"Southgate Mall to Downtown",,1,14,shp-1-01,0,0
+455020,1,1,"Southgate Mall to Downtown",,1,4,shp-1-01,0,0
+453020,1,1,"Southgate Mall to Downtown",,1,19,shp-1-01,0,0
+461020,1,1,"Southgate Mall to Downtown",,1,8,shp-1-01,0,0
+464020,1,1,"Southgate Mall to Downtown",,1,321,shp-1-01,0,0
+43010,1,3,"Southgate Mall to Downtown",,1,63,shp-1-01,0,0
+418020,1,1,"Southgate Mall to Downtown",,1,4,shp-1-01,0,0
+414020,1,1,"Southgate Mall to Downtown",,1,11,shp-1-01,0,0
+40020,1,1,"Southgate Mall to Downtown",,1,19,shp-1-01,0,0
+388010,1,3,"Southgate Mall to Downtown",,1,63,shp-1-01,0,0
+356010,1,3,"Southgate Mall to Downtown",,1,63,shp-1-01,0,0
+332070,1,2,"Southgate Mall to Downtown",,1,541,shp-1-01,0,0
+285020,1,1,"Southgate Mall to Downtown",,1,26,shp-1-01,0,0
+28070,1,2,"Southgate Mall to Downtown",,1,48,shp-1-01,0,0
+287020,1,1,"Southgate Mall to Downtown",,1,11,shp-1-01,0,0
+268010,1,3,"Southgate Mall to Downtown",,1,702,shp-1-01,0,0
+270020,1,1,"Southgate Mall to Downtown",,1,19,shp-1-01,0,0
+264020,1,1,"Southgate Mall to Downtown",,1,3,shp-1-01,0,0
+222020,1,1,"Southgate Mall to Downtown",,1,4,shp-1-01,0,0
+21020,1,1,"Southgate Mall to Downtown",,1,23,shp-1-01,0,0
+211020,1,1,"Southgate Mall to Downtown",,1,321,shp-1-01,0,0
+187070,1,2,"Southgate Mall to Downtown",,1,541,shp-1-01,0,0
+191020,1,1,"Southgate Mall to Downtown",,1,19,shp-1-01,0,0
+17020,1,1,"Southgate Mall to Downtown",,1,23,shp-1-01,0,0
+141020,1,1,"Southgate Mall to Downtown",,1,15,shp-1-01,0,0
+150020,1,1,"Southgate Mall to Downtown",,1,14,shp-1-01,0,0
+151020,1,1,"Southgate Mall to Downtown",,1,4,shp-1-01,0,0
+153070,1,2,"Southgate Mall to Downtown",,1,48,shp-1-01,0,0
+155020,1,1,"Southgate Mall to Downtown",,1,3,shp-1-01,0,0
+1134070,1,2,"Southgate Mall to Downtown",,1,48,shp-1-01,0,0
+1141020,1,1,"Southgate Mall to Downtown",,1,23,shp-1-01,0,0
+1083020,1,1,"Southgate Mall to Downtown",,1,3,shp-1-01,0,0
+1079020,1,1,"Southgate Mall to Downtown",,1,8,shp-1-01,0,0
+1080020,1,1,"Southgate Mall to Downtown",,1,26,shp-1-01,0,0
+108020,1,1,"Southgate Mall to Downtown",,1,26,shp-1-01,0,0
+1100020,1,1,"Southgate Mall to Downtown",,1,321,shp-1-01,0,0
+1113010,1,3,"Southgate Mall to Downtown",,1,63,shp-1-01,0,0
+1121070,1,2,"Southgate Mall to Downtown",,1,551,shp-1-01,0,0
+1034020,1,1,"Southgate Mall to Downtown",,1,3,shp-1-01,0,0
+1044070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+1053020,10,1,"Downtown to Franklin to the Fort",,0,9,shp-10-51,0,0
+1017070,10,2,"Downtown to Franklin to the Fort",,0,531,shp-10-51,0,0
+1006070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+1120020,10,1,"Downtown to Franklin to the Fort",,0,9,shp-10-51,0,0
+1125070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+1076070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+1072020,10,1,"Downtown to Franklin to the Fort",,0,9,shp-10-51,0,0
+158020,10,1,"Downtown to Franklin to the Fort",,0,20,shp-10-51,0,0
+14070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+128020,10,1,"Downtown to Franklin to the Fort",,0,9,shp-10-51,0,0
+167020,10,1,"Downtown to Franklin to the Fort",,0,9,shp-10-51,0,0
+175070,10,2,"Downtown to Franklin to the Fort",,0,531,shp-10-51,0,0
+217020,10,1,"Downtown to Franklin to the Fort",,0,20,shp-10-51,0,0
+26020,10,1,"Downtown to Franklin to the Fort",,0,9,shp-10-51,0,0
+254020,10,1,"Downtown to Franklin to the Fort",,0,20,shp-10-51,0,0
+236070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+29070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+309020,10,1,"Downtown to Franklin to the Fort",,0,20,shp-10-51,0,0
+32020,10,1,"Downtown to Franklin to the Fort",,0,20,shp-10-51,0,0
+325020,10,1,"Downtown to Franklin to the Fort",,0,20,shp-10-51,0,0
+343020,10,1,"Downtown to Franklin to the Fort",,0,9,shp-10-51,0,0
+352020,10,1,"Downtown to Franklin to the Fort",,0,20,shp-10-51,0,0
+373020,10,1,"Downtown to Franklin to the Fort",,0,20,shp-10-51,0,0
+374020,10,1,"Downtown to Franklin to the Fort",,0,9,shp-10-51,0,0
+390020,10,1,"Downtown to Franklin to the Fort",,0,9,shp-10-51,0,0
+397020,10,1,"Downtown to Franklin to the Fort",,0,20,shp-10-51,0,0
+427070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+436020,10,1,"Downtown to Franklin to the Fort",,0,20,shp-10-51,0,0
+433070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+45070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+61070,10,2,"Downtown to Franklin to the Fort",,0,531,shp-10-51,0,0
+58070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+583070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+543020,10,1,"Downtown to Franklin to the Fort",,0,9,shp-10-51,0,0
+555070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+570070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+577070,10,2,"Downtown to Franklin to the Fort",,0,531,shp-10-51,0,0
+578070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+49070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+510020,10,1,"Downtown to Franklin to the Fort",,0,9,shp-10-51,0,0
+518020,10,1,"Downtown to Franklin to the Fort",,0,20,shp-10-51,0,0
+74020,10,1,"Downtown to Franklin to the Fort",,0,9,shp-10-51,0,0
+686020,10,1,"Downtown to Franklin to the Fort",,0,9,shp-10-51,0,0
+760070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+751020,10,1,"Downtown to Franklin to the Fort",,0,20,shp-10-51,0,0
+781020,10,1,"Downtown to Franklin to the Fort",,0,20,shp-10-51,0,0
+851020,10,1,"Downtown to Franklin to the Fort",,0,9,shp-10-51,0,0
+861020,10,1,"Downtown to Franklin to the Fort",,0,20,shp-10-51,0,0
+869070,10,2,"Downtown to Franklin to the Fort",,0,531,shp-10-51,0,0
+93020,10,1,"Downtown to Franklin to the Fort",,0,20,shp-10-51,0,0
+931020,10,1,"Downtown to Franklin to the Fort",,0,9,shp-10-51,0,0
+906070,10,2,"Downtown to Franklin to the Fort",,0,531,shp-10-51,0,0
+936070,10,2,"Downtown to Franklin to the Fort",,0,47,shp-10-51,0,0
+998070,10,2,"Downtown to Franklin to the Fort",,0,531,shp-10-51,0,0
+988020,10,1,"Franklin to the Fort to Downtown",,1,20,shp-10-01,0,0
+977020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+951020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+968020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+953070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+910070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+917070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+918020,10,1,"Franklin to the Fort to Downtown",,1,20,shp-10-01,0,0
+932020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+929070,10,2,"Franklin to the Fort to Downtown",,1,531,shp-10-01,0,0
+934070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+874020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+886070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+900020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+862020,10,1,"Franklin to the Fort to Downtown",,1,20,shp-10-01,0,0
+785020,10,1,"Franklin to the Fort to Downtown",,1,20,shp-10-01,0,0
+803070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+804020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+800070,10,2,"Franklin to the Fort to Downtown",,1,531,shp-10-01,0,0
+758020,10,1,"Franklin to the Fort to Downtown",,1,20,shp-10-01,0,0
+763020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+695020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+696070,10,2,"Franklin to the Fort to Downtown",,1,531,shp-10-01,0,0
+688070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+625070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+680020,10,1,"Franklin to the Fort to Downtown",,1,20,shp-10-01,0,0
+658070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+655070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+661020,10,1,"Franklin to the Fort to Downtown",,1,20,shp-10-01,0,0
+515070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+540020,10,1,"Franklin to the Fort to Downtown",,1,20,shp-10-01,0,0
+488070,10,2,"Franklin to the Fort to Downtown",,1,531,shp-10-01,0,0
+562020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+585020,10,1,"Franklin to the Fort to Downtown",,1,20,shp-10-01,0,0
+608020,10,1,"Franklin to the Fort to Downtown",,1,20,shp-10-01,0,0
+435070,10,2,"Franklin to the Fort to Downtown",,1,531,shp-10-01,0,0
+44020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+408070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+354020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+366070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+349070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+30070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+284020,10,1,"Franklin to the Fort to Downtown",,1,20,shp-10-01,0,0
+24020,10,1,"Franklin to the Fort to Downtown",,1,20,shp-10-01,0,0
+250070,10,2,"Franklin to the Fort to Downtown",,1,531,shp-10-01,0,0
+2070,10,2,"Franklin to the Fort to Downtown",,1,531,shp-10-01,0,0
+185020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+133020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+136020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+149070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+1139020,10,1,"Franklin to the Fort to Downtown",,1,9,shp-10-01,0,0
+115020,10,1,"Franklin to the Fort to Downtown",,1,20,shp-10-01,0,0
+1128070,10,2,"Franklin to the Fort to Downtown",,1,531,shp-10-01,0,0
+1009070,10,2,"Franklin to the Fort to Downtown",,1,47,shp-10-01,0,0
+1064020,10,1,"Franklin to the Fort to Downtown",,1,20,shp-10-01,0,0
+1039020,10,1,"Franklin to the Fort to Downtown",,1,20,shp-10-01,0,0
+1021010,11,3,"Airport to Downtown",,1,64,shp-11-01,0,0
+1123010,11,3,"Airport to Downtown",,1,64,shp-11-01,0,0
+1115020,11,1,"Airport to Downtown",,1,24,shp-11-01,0,0
+1118020,11,1,"Airport to Downtown",,1,17,shp-11-01,0,0
+130010,11,3,"Airport to Downtown",,1,64,shp-11-01,0,0
+1140020,11,1,"Airport to Downtown",,1,5,shp-11-01,0,0
+1145020,11,1,"Airport to Downtown",,1,5,shp-11-01,0,0
+186070,11,2,"Airport to Downtown",,1,52,shp-11-01,0,0
+190020,11,1,"Airport to Downtown",,1,24,shp-11-01,0,0
+168020,11,1,"Airport to Downtown",,1,5,shp-11-01,0,0
+218010,11,3,"Airport to Downtown",,1,64,shp-11-01,0,0
+210070,11,2,"Airport to Downtown",,1,52,shp-11-01,0,0
+251020,11,1,"Airport to Downtown",,1,5,shp-11-01,0,0
+256070,11,2,"Airport to Downtown",,1,45,shp-11-01,0,0
+265020,11,1,"Airport to Downtown",,1,5,shp-11-01,0,0
+278010,11,3,"Airport to Downtown",,1,64,shp-11-01,0,0
+297070,11,2,"Airport to Downtown",,1,45,shp-11-01,0,0
+303070,11,2,"Airport to Downtown",,1,45,shp-11-01,0,0
+340020,11,1,"Airport to Downtown",,1,5,shp-11-01,0,0
+394020,11,1,"Airport to Downtown",,1,24,shp-11-01,0,0
+403070,11,2,"Airport to Downtown",,1,52,shp-11-01,0,0
+421010,11,3,"Airport to Downtown",,1,722,shp-11-01,0,0
+423020,11,1,"Airport to Downtown",,1,5,shp-11-01,0,0
+484020,11,1,"Airport to Downtown",,1,17,shp-11-01,0,0
+60070,11,2,"Airport to Downtown",,1,45,shp-11-01,0,0
+596070,11,2,"Airport to Downtown",,1,52,shp-11-01,0,0
+591020,11,1,"Airport to Downtown",,1,5,shp-11-01,0,0
+463010,11,3,"Airport to Downtown",,1,64,shp-11-01,0,0
+506070,11,2,"Airport to Downtown",,1,52,shp-11-01,0,0
+529070,11,2,"Airport to Downtown",,1,52,shp-11-01,0,0
+626010,11,3,"Airport to Downtown",,1,722,shp-11-01,0,0
+62010,11,3,"Airport to Downtown",,1,64,shp-11-01,0,0
+624010,11,3,"Airport to Downtown",,1,64,shp-11-01,0,0
+741020,11,1,"Airport to Downtown",,1,17,shp-11-01,0,0
+740020,11,1,"Airport to Downtown",,1,24,shp-11-01,0,0
+771070,11,2,"Airport to Downtown",,1,52,shp-11-01,0,0
+798020,11,1,"Airport to Downtown",,1,17,shp-11-01,0,0
+863070,11,2,"Airport to Downtown",,1,45,shp-11-01,0,0
+912010,11,3,"Airport to Downtown",,1,722,shp-11-01,0,0
+943010,11,3,"Airport to Downtown",,1,722,shp-11-01,0,0
+971020,11,1,"Downtown to Airport via Expressway & Reserve",,0,5,shp-11-52,0,0
+992070,11,2,"Downtown to Airport via Expressway & Reserve",,0,52,shp-11-52,0,0
+924010,11,3,"Downtown to Airport via Expressway & Reserve",,0,722,shp-11-52,0,0
+883020,11,1,"Downtown to Airport via Expressway & Reserve",,0,5,shp-11-52,0,0
+878020,11,1,"Downtown to Airport via Expressway & Reserve",,0,5,shp-11-52,0,0
+819070,11,2,"Downtown to Airport via Expressway & Reserve",,0,45,shp-11-52,0,0
+782010,11,3,"Downtown to Airport via Expressway & Reserve",,0,64,shp-11-52,0,0
+765010,11,3,"Downtown to Airport via Expressway & Reserve",,0,722,shp-11-52,0,0
+685010,11,3,"Downtown to Airport via Expressway & Reserve",,0,64,shp-11-52,0,0
+71010,11,3,"Downtown to Airport via Expressway & Reserve",,0,64,shp-11-52,0,0
+650070,11,2,"Downtown to Airport via Expressway & Reserve",,0,45,shp-11-52,0,0
+673070,11,2,"Downtown to Airport via Expressway & Reserve",,0,45,shp-11-52,0,0
+520020,11,1,"Downtown to Airport via Expressway & Reserve",,0,24,shp-11-52,0,0
+539010,11,3,"Downtown to Airport via Expressway & Reserve",,0,64,shp-11-52,0,0
+611010,11,3,"Downtown to Airport via Expressway & Reserve",,0,64,shp-11-52,0,0
+459020,11,1,"Downtown to Airport via Expressway & Reserve",,0,17,shp-11-52,0,0
+425020,11,1,"Downtown to Airport via Expressway & Reserve",,0,5,shp-11-52,0,0
+368020,11,1,"Downtown to Airport via Expressway & Reserve",,0,17,shp-11-52,0,0
+31020,11,1,"Downtown to Airport via Expressway & Reserve",,0,24,shp-11-52,0,0
+302020,11,1,"Downtown to Airport via Expressway & Reserve",,0,24,shp-11-52,0,0
+253070,11,2,"Downtown to Airport via Expressway & Reserve",,0,52,shp-11-52,0,0
+243070,11,2,"Downtown to Airport via Expressway & Reserve",,0,52,shp-11-52,0,0
+220010,11,3,"Downtown to Airport via Expressway & Reserve",,0,722,shp-11-52,0,0
+22020,11,1,"Downtown to Airport via Expressway & Reserve",,0,17,shp-11-52,0,0
+226010,11,3,"Downtown to Airport via Expressway & Reserve",,0,64,shp-11-52,0,0
+208010,11,3,"Downtown to Airport via Expressway & Reserve",,0,64,shp-11-52,0,0
+202010,11,3,"Downtown to Airport via Expressway & Reserve",,0,722,shp-11-52,0,0
+19020,11,1,"Downtown to Airport via Expressway & Reserve",,0,5,shp-11-52,0,0
+18020,11,1,"Downtown to Airport via Expressway & Reserve",,0,17,shp-11-52,0,0
+1132070,11,2,"Downtown to Airport via Expressway & Reserve",,0,52,shp-11-52,0,0
+13070,11,2,"Downtown to Airport via Expressway & Reserve",,0,52,shp-11-52,0,0
+122070,11,2,"Downtown to Airport via Expressway & Reserve",,0,45,shp-11-52,0,0
+137020,11,1,"Downtown to Airport via Expressway & Reserve",,0,24,shp-11-52,0,0
+112020,11,1,"Downtown to Airport via Expressway & Reserve",,0,5,shp-11-52,0,0
+1109010,11,3,"Downtown to Airport via Expressway & Reserve",,0,64,shp-11-52,0,0
+1070020,11,1,"Downtown to Airport via Expressway & Reserve",,0,5,shp-11-52,0,0
+1086070,11,2,"Downtown to Airport via Expressway & Reserve",,0,45,shp-11-52,0,0
+1020,11,1,"Downtown to Airport via Expressway & Reserve",,0,5,shp-11-52,0,0
+1001070,11,2,"Downtown to Airport via Expressway & Reserve",,0,52,shp-11-52,0,0
+1058070,11,2,"Downtown to Airport via Expressway & Reserve",,0,52,shp-11-52,0,0
+460020,12,1,"55th & Bridger to 39th & Wapikya",,1,24,shp-12-03,0,0
+482010,12,3,"55th & Gharrett to Downtown",,1,721,shp-12-02,0,0
+467070,12,2,"55th & Gharrett to Downtown",,1,43,shp-12-02,0,0
+449010,12,3,"55th & Gharrett to Downtown",,1,67,shp-12-02,0,0
+434020,12,1,"55th & Gharrett to Downtown",,1,322,shp-12-02,0,0
+363010,12,3,"55th & Gharrett to Downtown",,1,67,shp-12-02,0,0
+359070,12,2,"55th & Gharrett to Downtown",,1,532,shp-12-02,0,0
+360070,12,2,"55th & Gharrett to Downtown",,1,43,shp-12-02,0,0
+380010,12,3,"55th & Gharrett to Downtown",,1,721,shp-12-02,0,0
+41070,12,2,"55th & Gharrett to Downtown",,1,532,shp-12-02,0,0
+387020,12,1,"55th & Gharrett to Downtown",,1,302,shp-12-02,0,0
+282020,12,1,"55th & Gharrett to Downtown",,1,322,shp-12-02,0,0
+299020,12,1,"55th & Gharrett to Downtown",,1,322,shp-12-02,0,0
+311010,12,3,"55th & Gharrett to Downtown",,1,67,shp-12-02,0,0
+314010,12,3,"55th & Gharrett to Downtown",,1,67,shp-12-02,0,0
+326020,12,1,"55th & Gharrett to Downtown",,1,6,shp-12-02,0,0
+1062020,12,1,"55th & Gharrett to Downtown",,1,6,shp-12-02,0,0
+101020,12,1,"55th & Gharrett to Downtown",,1,6,shp-12-02,0,0
+1030020,12,1,"55th & Gharrett to Downtown",,1,6,shp-12-02,0,0
+1067010,12,3,"55th & Gharrett to Downtown",,1,721,shp-12-02,0,0
+111010,12,3,"55th & Gharrett to Downtown",,1,67,shp-12-02,0,0
+1119020,12,1,"55th & Gharrett to Downtown",,1,6,shp-12-02,0,0
+1116070,12,2,"55th & Gharrett to Downtown",,1,43,shp-12-02,0,0
+157010,12,3,"55th & Gharrett to Downtown",,1,67,shp-12-02,0,0
+1142070,12,2,"55th & Gharrett to Downtown",,1,43,shp-12-02,0,0
+215070,12,2,"55th & Gharrett to Downtown",,1,43,shp-12-02,0,0
+586020,12,1,"55th & Gharrett to Downtown",,1,302,shp-12-02,0,0
+582070,12,2,"55th & Gharrett to Downtown",,1,43,shp-12-02,0,0
+554020,12,1,"55th & Gharrett to Downtown",,1,24,shp-12-02,0,0
+53020,12,1,"55th & Gharrett to Downtown",,1,6,shp-12-02,0,0
+509020,12,1,"55th & Gharrett to Downtown",,1,6,shp-12-02,0,0
+490010,12,3,"55th & Gharrett to Downtown",,1,67,shp-12-02,0,0
+487070,12,2,"55th & Gharrett to Downtown",,1,532,shp-12-02,0,0
+70070,12,2,"55th & Gharrett to Downtown",,1,532,shp-12-02,0,0
+780070,12,2,"55th & Gharrett to Downtown",,1,43,shp-12-02,0,0
+799070,12,2,"55th & Gharrett to Downtown",,1,43,shp-12-02,0,0
+833020,12,1,"55th & Gharrett to Downtown",,1,6,shp-12-02,0,0
+915010,12,3,"55th & Gharrett to Downtown",,1,67,shp-12-02,0,0
+987010,12,3,"55th & Gharrett to Downtown",,1,721,shp-12-02,0,0
+970020,12,1,"55th & Gharrett to Downtown",,1,302,shp-12-02,0,0
+911070,12,2,"Downtown to 55th & Gharrett",,0,532,shp-12-51,0,0
+838020,12,1,"Downtown to 55th & Gharrett",,0,6,shp-12-51,0,0
+824010,12,3,"Downtown to 55th & Gharrett",,0,67,shp-12-51,0,0
+848070,12,2,"Downtown to 55th & Gharrett",,0,43,shp-12-51,0,0
+779070,12,2,"Downtown to 55th & Gharrett",,0,532,shp-12-51,0,0
+786010,12,3,"Downtown to 55th & Gharrett",,0,721,shp-12-51,0,0
+787020,12,1,"Downtown to 55th & Gharrett",,0,24,shp-12-51,0,0
+706020,12,1,"Downtown to 55th & Gharrett",,0,6,shp-12-51,0,0
+692070,12,2,"Downtown to 55th & Gharrett",,0,43,shp-12-51,0,0
+733010,12,3,"Downtown to 55th & Gharrett",,0,67,shp-12-51,0,0
+667070,12,2,"Downtown to 55th & Gharrett",,0,43,shp-12-51,0,0
+65070,12,2,"Downtown to 55th & Gharrett",,0,43,shp-12-51,0,0
+514020,12,1,"Downtown to 55th & Gharrett",,0,24,shp-12-51,0,0
+552020,12,1,"Downtown to 55th & Gharrett",,0,302,shp-12-51,0,0
+593070,12,2,"Downtown to 55th & Gharrett",,0,43,shp-12-51,0,0
+196010,12,3,"Downtown to 55th & Gharrett",,0,67,shp-12-51,0,0
+178020,12,1,"Downtown to 55th & Gharrett",,0,322,shp-12-51,0,0
+179010,12,3,"Downtown to 55th & Gharrett",,0,721,shp-12-51,0,0
+171070,12,2,"Downtown to 55th & Gharrett",,0,43,shp-12-51,0,0
+172020,12,1,"Downtown to 55th & Gharrett",,0,322,shp-12-51,0,0
+162020,12,1,"Downtown to 55th & Gharrett",,0,6,shp-12-51,0,0
+118010,12,3,"Downtown to 55th & Gharrett",,0,67,shp-12-51,0,0
+119010,12,3,"Downtown to 55th & Gharrett",,0,67,shp-12-51,0,0
+160020,12,1,"Downtown to 55th & Gharrett",,0,6,shp-12-51,0,0
+103010,12,3,"Downtown to 55th & Gharrett",,0,721,shp-12-51,0,0
+1018020,12,1,"Downtown to 55th & Gharrett",,0,322,shp-12-51,0,0
+1056020,12,1,"Downtown to 55th & Gharrett",,0,6,shp-12-51,0,0
+1050020,12,1,"Downtown to 55th & Gharrett",,0,6,shp-12-51,0,0
+341070,12,2,"Downtown to 55th & Gharrett",,0,532,shp-12-51,0,0
+338070,12,2,"Downtown to 55th & Gharrett",,0,43,shp-12-51,0,0
+293070,12,2,"Downtown to 55th & Gharrett",,0,43,shp-12-51,0,0
+295070,12,2,"Downtown to 55th & Gharrett",,0,532,shp-12-51,0,0
+245010,12,3,"Downtown to 55th & Gharrett",,0,67,shp-12-51,0,0
+242010,12,3,"Downtown to 55th & Gharrett",,0,721,shp-12-51,0,0
+357010,12,3,"Downtown to 55th & Gharrett",,0,67,shp-12-51,0,0
+364010,12,3,"Downtown to 55th & Gharrett",,0,67,shp-12-51,0,0
+432020,12,1,"Downtown to 55th & Gharrett",,0,6,shp-12-51,0,0
+429020,12,1,"Downtown to 55th & Gharrett",,0,302,shp-12-51,0,0
+474020,12,1,"Downtown to 55th & Gharrett",,0,302,shp-12-51,0,0
+407070,14,2,"Downtown to Russell & Broadway",,0,552,shp-14-51,0,0
+440010,14,3,"Downtown to Russell & Broadway",,0,68,shp-14-51,0,0
+362070,14,2,"Downtown to Russell & Broadway",,0,40,shp-14-51,0,0
+371020,14,1,"Downtown to Russell & Broadway",,0,1,shp-14-51,0,0
+25020,14,1,"Downtown to Russell & Broadway",,0,1,shp-14-51,0,0
+280070,14,2,"Downtown to Russell & Broadway",,0,552,shp-14-51,0,0
+296020,14,1,"Downtown to Russell & Broadway",,0,1,shp-14-51,0,0
+339010,14,3,"Downtown to Russell & Broadway",,0,68,shp-14-51,0,0
+1004070,14,2,"Downtown to Russell & Broadway",,0,552,shp-14-51,0,0
+1075020,14,1,"Downtown to Russell & Broadway",,0,16,shp-14-51,0,0
+1085070,14,2,"Downtown to Russell & Broadway",,0,40,shp-14-51,0,0
+1092020,14,1,"Downtown to Russell & Broadway",,0,17,shp-14-51,0,0
+148010,14,3,"Downtown to Russell & Broadway",,0,68,shp-14-51,0,0
+139020,14,1,"Downtown to Russell & Broadway",,0,1,shp-14-51,0,0
+131020,14,1,"Downtown to Russell & Broadway",,0,16,shp-14-51,0,0
+1138020,14,1,"Downtown to Russell & Broadway",,0,1,shp-14-51,0,0
+194020,14,1,"Downtown to Russell & Broadway",,0,16,shp-14-51,0,0
+181010,14,3,"Downtown to Russell & Broadway",,0,701,shp-14-51,0,0
+209010,14,3,"Downtown to Russell & Broadway",,0,68,shp-14-51,0,0
+605010,14,3,"Downtown to Russell & Broadway",,0,701,shp-14-51,0,0
+493020,14,1,"Downtown to Russell & Broadway",,0,17,shp-14-51,0,0
+499070,14,2,"Downtown to Russell & Broadway",,0,552,shp-14-51,0,0
+52010,14,3,"Downtown to Russell & Broadway",,0,68,shp-14-51,0,0
+541020,14,1,"Downtown to Russell & Broadway",,0,16,shp-14-51,0,0
+669020,14,1,"Downtown to Russell & Broadway",,0,1,shp-14-51,0,0
+657020,14,1,"Downtown to Russell & Broadway",,0,17,shp-14-51,0,0
+640020,14,1,"Downtown to Russell & Broadway",,0,17,shp-14-51,0,0
+736020,14,1,"Downtown to Russell & Broadway",,0,1,shp-14-51,0,0
+687010,14,3,"Downtown to Russell & Broadway",,0,68,shp-14-51,0,0
+689010,14,3,"Downtown to Russell & Broadway",,0,701,shp-14-51,0,0
+713070,14,2,"Downtown to Russell & Broadway",,0,40,shp-14-51,0,0
+761070,14,2,"Downtown to Russell & Broadway",,0,552,shp-14-51,0,0
+754010,14,3,"Downtown to Russell & Broadway",,0,68,shp-14-51,0,0
+755010,14,3,"Downtown to Russell & Broadway",,0,701,shp-14-51,0,0
+820010,14,3,"Downtown to Russell & Broadway",,0,65,shp-14-51,0,0
+817070,14,2,"Downtown to Russell & Broadway",,0,40,shp-14-51,0,0
+81070,14,2,"Downtown to Russell & Broadway",,0,40,shp-14-51,0,0
+919070,14,2,"Downtown to Russell & Broadway",,0,40,shp-14-51,0,0
+901020,14,1,"Downtown to Russell & Broadway",,0,16,shp-14-51,0,0
+944070,14,2,"Downtown to Russell & Broadway",,0,552,shp-14-51,0,0
+946010,14,3,"Russell & Broadway to Downtown",,1,68,shp-14-01,0,0
+994020,14,1,"Russell & Broadway to Downtown",,1,16,shp-14-01,0,0
+887010,14,3,"Russell & Broadway to Downtown",,1,68,shp-14-01,0,0
+905010,14,3,"Russell & Broadway to Downtown",,1,68,shp-14-01,0,0
+852010,14,3,"Russell & Broadway to Downtown",,1,65,shp-14-01,0,0
+853070,14,2,"Russell & Broadway to Downtown",,1,40,shp-14-01,0,0
+837070,14,2,"Russell & Broadway to Downtown",,1,552,shp-14-01,0,0
+75020,14,1,"Russell & Broadway to Downtown",,1,17,shp-14-01,0,0
+746020,14,1,"Russell & Broadway to Downtown",,1,1,shp-14-01,0,0
+762070,14,2,"Russell & Broadway to Downtown",,1,40,shp-14-01,0,0
+773020,14,1,"Russell & Broadway to Downtown",,1,1,shp-14-01,0,0
+778020,14,1,"Russell & Broadway to Downtown",,1,1,shp-14-01,0,0
+684070,14,2,"Russell & Broadway to Downtown",,1,552,shp-14-01,0,0
+722020,14,1,"Russell & Broadway to Downtown",,1,1,shp-14-01,0,0
+637010,14,3,"Russell & Broadway to Downtown",,1,68,shp-14-01,0,0
+498070,14,2,"Russell & Broadway to Downtown",,1,552,shp-14-01,0,0
+513010,14,3,"Russell & Broadway to Downtown",,1,68,shp-14-01,0,0
+589070,14,2,"Russell & Broadway to Downtown",,1,40,shp-14-01,0,0
+569020,14,1,"Russell & Broadway to Downtown",,1,17,shp-14-01,0,0
+195010,14,3,"Russell & Broadway to Downtown",,1,701,shp-14-01,0,0
+170070,14,2,"Russell & Broadway to Downtown",,1,552,shp-14-01,0,0
+143020,14,1,"Russell & Broadway to Downtown",,1,17,shp-14-01,0,0
+1093020,14,1,"Russell & Broadway to Downtown",,1,16,shp-14-01,0,0
+1074010,14,3,"Russell & Broadway to Downtown",,1,701,shp-14-01,0,0
+1126020,14,1,"Russell & Broadway to Downtown",,1,1,shp-14-01,0,0
+100020,14,1,"Russell & Broadway to Downtown",,1,1,shp-14-01,0,0
+10020,14,1,"Russell & Broadway to Downtown",,1,1,shp-14-01,0,0
+1013010,14,3,"Russell & Broadway to Downtown",,1,68,shp-14-01,0,0
+346010,14,3,"Russell & Broadway to Downtown",,1,68,shp-14-01,0,0
+294070,14,2,"Russell & Broadway to Downtown",,1,552,shp-14-01,0,0
+291070,14,2,"Russell & Broadway to Downtown",,1,40,shp-14-01,0,0
+281070,14,2,"Russell & Broadway to Downtown",,1,40,shp-14-01,0,0
+244070,14,2,"Russell & Broadway to Downtown",,1,552,shp-14-01,0,0
+376010,14,3,"Russell & Broadway to Downtown",,1,701,shp-14-01,0,0
+384010,14,3,"Russell & Broadway to Downtown",,1,701,shp-14-01,0,0
+386020,14,1,"Russell & Broadway to Downtown",,1,16,shp-14-01,0,0
+389070,14,2,"Russell & Broadway to Downtown",,1,40,shp-14-01,0,0
+420020,14,1,"Russell & Broadway to Downtown",,1,16,shp-14-01,0,0
+456020,14,1,"Russell & Broadway to Downtown",,1,17,shp-14-01,0,0
+485010,2,3,"Downtown to Southgate Mall",,0,63,shp-2-51,0,0
+441020,2,1,"Downtown to Southgate Mall",,0,14,shp-2-51,0,0
+396020,2,1,"Downtown to Southgate Mall",,0,321,shp-2-51,0,0
+412070,2,2,"Downtown to Southgate Mall",,0,48,shp-2-51,0,0
+385010,2,3,"Downtown to Southgate Mall",,0,63,shp-2-51,0,0
+377020,2,1,"Downtown to Southgate Mall",,0,24,shp-2-51,0,0
+365010,2,3,"Downtown to Southgate Mall",,0,63,shp-2-51,0,0
+358010,2,3,"Downtown to Southgate Mall",,0,63,shp-2-51,0,0
+353020,2,1,"Downtown to Southgate Mall",,0,321,shp-2-51,0,0
+232020,2,1,"Downtown to Southgate Mall",,0,23,shp-2-51,0,0
+279070,2,2,"Downtown to Southgate Mall",,0,48,shp-2-51,0,0
+269020,2,1,"Downtown to Southgate Mall",,0,8,shp-2-51,0,0
+301020,2,1,"Downtown to Southgate Mall",,0,4,shp-2-51,0,0
+310020,2,1,"Downtown to Southgate Mall",,0,8,shp-2-51,0,0
+342010,2,3,"Downtown to Southgate Mall",,0,702,shp-2-51,0,0
+322020,2,1,"Downtown to Southgate Mall",,0,15,shp-2-51,0,0
+330070,2,2,"Downtown to Southgate Mall",,0,48,shp-2-51,0,0
+1020020,2,1,"Downtown to Southgate Mall",,0,25,shp-2-51,0,0
+1025020,2,1,"Downtown to Southgate Mall",,0,19,shp-2-51,0,0
+1026020,2,1,"Downtown to Southgate Mall",,0,14,shp-2-51,0,0
+105020,2,1,"Downtown to Southgate Mall",,0,11,shp-2-51,0,0
+1065020,2,1,"Downtown to Southgate Mall",,0,3,shp-2-51,0,0
+1032020,2,1,"Downtown to Southgate Mall",,0,4,shp-2-51,0,0
+1037070,2,2,"Downtown to Southgate Mall",,0,541,shp-2-51,0,0
+1045020,2,1,"Downtown to Southgate Mall",,0,26,shp-2-51,0,0
+1046020,2,1,"Downtown to Southgate Mall",,0,4,shp-2-51,0,0
+1114020,2,1,"Downtown to Southgate Mall",,0,3,shp-2-51,0,0
+1073070,2,2,"Downtown to Southgate Mall",,0,48,shp-2-51,0,0
+109020,2,1,"Downtown to Southgate Mall",,0,14,shp-2-51,0,0
+1078020,2,1,"Downtown to Southgate Mall",,0,4,shp-2-51,0,0
+124070,2,2,"Downtown to Southgate Mall",,0,48,shp-2-51,0,0
+117070,2,2,"Downtown to Southgate Mall",,0,541,shp-2-51,0,0
+192020,2,1,"Downtown to Southgate Mall",,0,14,shp-2-51,0,0
+212020,2,1,"Downtown to Southgate Mall",,0,19,shp-2-51,0,0
+225020,2,1,"Downtown to Southgate Mall",,0,26,shp-2-51,0,0
+558010,2,3,"Downtown to Southgate Mall",,0,63,shp-2-51,0,0
+560020,2,1,"Downtown to Southgate Mall",,0,19,shp-2-51,0,0
+600070,2,2,"Downtown to Southgate Mall",,0,48,shp-2-51,0,0
+507070,2,2,"Downtown to Southgate Mall",,0,541,shp-2-51,0,0
+502010,2,3,"Downtown to Southgate Mall",,0,63,shp-2-51,0,0
+534020,2,1,"Downtown to Southgate Mall",,0,4,shp-2-51,0,0
+536010,2,3,"Downtown to Southgate Mall",,0,63,shp-2-51,0,0
+519020,2,1,"Downtown to Southgate Mall",,0,23,shp-2-51,0,0
+527010,2,3,"Downtown to Southgate Mall",,0,702,shp-2-51,0,0
+643020,2,1,"Downtown to Southgate Mall",,0,3,shp-2-51,0,0
+619020,2,1,"Downtown to Southgate Mall",,0,23,shp-2-51,0,0
+630070,2,2,"Downtown to Southgate Mall",,0,551,shp-2-51,0,0
+679020,2,1,"Downtown to Southgate Mall",,0,15,shp-2-51,0,0
+659020,2,1,"Downtown to Southgate Mall",,0,11,shp-2-51,0,0
+727010,2,3,"Downtown to Southgate Mall",,0,63,shp-2-51,0,0
+732070,2,2,"Downtown to Southgate Mall",,0,541,shp-2-51,0,0
+742070,2,2,"Downtown to Southgate Mall",,0,48,shp-2-51,0,0
+682020,2,1,"Downtown to Southgate Mall",,0,19,shp-2-51,0,0
+710020,2,1,"Downtown to Southgate Mall",,0,11,shp-2-51,0,0
+703020,2,1,"Downtown to Southgate Mall",,0,4,shp-2-51,0,0
+704010,2,3,"Downtown to Southgate Mall",,0,702,shp-2-51,0,0
+705020,2,1,"Downtown to Southgate Mall",,0,26,shp-2-51,0,0
+78020,2,1,"Downtown to Southgate Mall",,0,4,shp-2-51,0,0
+8020,2,1,"Downtown to Southgate Mall",,0,321,shp-2-51,0,0
+77020,2,1,"Downtown to Southgate Mall",,0,23,shp-2-51,0,0
+744020,2,1,"Downtown to Southgate Mall",,0,3,shp-2-51,0,0
+86020,2,1,"Downtown to Southgate Mall",,0,19,shp-2-51,0,0
+813020,2,1,"Downtown to Southgate Mall",,0,8,shp-2-51,0,0
+810020,2,1,"Downtown to Southgate Mall",,0,19,shp-2-51,0,0
+789020,2,1,"Downtown to Southgate Mall",,0,3,shp-2-51,0,0
+818020,2,1,"Downtown to Southgate Mall",,0,26,shp-2-51,0,0
+829020,2,1,"Downtown to Southgate Mall",,0,19,shp-2-51,0,0
+840020,2,1,"Downtown to Southgate Mall",,0,26,shp-2-51,0,0
+904020,2,1,"Downtown to Southgate Mall",,0,8,shp-2-51,0,0
+908020,2,1,"Downtown to Southgate Mall",,0,15,shp-2-51,0,0
+916020,2,1,"Downtown to Southgate Mall",,0,11,shp-2-51,0,0
+927070,2,2,"Downtown to Southgate Mall",,0,48,shp-2-51,0,0
+884020,2,1,"Downtown to Southgate Mall",,0,23,shp-2-51,0,0
+885020,2,1,"Downtown to Southgate Mall",,0,19,shp-2-51,0,0
+963020,2,1,"Downtown to Southgate Mall",,0,26,shp-2-51,0,0
+980070,2,2,"Downtown to Southgate Mall",,0,551,shp-2-51,0,0
+959010,2,3,"Downtown to Southgate Mall",,0,702,shp-2-51,0,0
+960020,2,1,"Southgate Mall to Downtown",,1,301,shp-2-01,0,0
+962020,2,1,"Southgate Mall to Downtown",,1,292,shp-2-01,0,0
+948020,2,1,"Southgate Mall to Downtown",,1,22,shp-2-01,0,0
+937020,2,1,"Southgate Mall to Downtown",,1,12,shp-2-01,0,0
+972070,2,2,"Southgate Mall to Downtown",,1,42,shp-2-01,0,0
+993010,2,3,"Southgate Mall to Downtown",,1,65,shp-2-01,0,0
+997020,2,1,"Southgate Mall to Downtown",,1,15,shp-2-01,0,0
+876020,2,1,"Southgate Mall to Downtown",,1,22,shp-2-01,0,0
+9020,2,1,"Southgate Mall to Downtown",,1,18,shp-2-01,0,0
+90020,2,1,"Southgate Mall to Downtown",,1,301,shp-2-01,0,0
+921070,2,2,"Southgate Mall to Downtown",,1,42,shp-2-01,0,0
+834010,2,3,"Southgate Mall to Downtown",,1,65,shp-2-01,0,0
+822010,2,3,"Southgate Mall to Downtown",,1,62,shp-2-01,0,0
+811020,2,1,"Southgate Mall to Downtown",,1,12,shp-2-01,0,0
+856020,2,1,"Southgate Mall to Downtown",,1,13,shp-2-01,0,0
+857020,2,1,"Southgate Mall to Downtown",,1,301,shp-2-01,0,0
+858020,2,1,"Southgate Mall to Downtown",,1,15,shp-2-01,0,0
+859020,2,1,"Southgate Mall to Downtown",,1,14,shp-2-01,0,0
+854020,2,1,"Southgate Mall to Downtown",,1,11,shp-2-01,0,0
+766070,2,2,"Southgate Mall to Downtown",,1,45,shp-2-01,0,0
+795070,2,2,"Southgate Mall to Downtown",,1,542,shp-2-01,0,0
+792010,2,3,"Southgate Mall to Downtown",,1,65,shp-2-01,0,0
+726020,2,1,"Southgate Mall to Downtown",,1,13,shp-2-01,0,0
+724010,2,3,"Southgate Mall to Downtown",,1,62,shp-2-01,0,0
+662020,2,1,"Southgate Mall to Downtown",,1,13,shp-2-01,0,0
+647020,2,1,"Southgate Mall to Downtown",,1,12,shp-2-01,0,0
+645020,2,1,"Southgate Mall to Downtown",,1,2,shp-2-01,0,0
+665020,2,1,"Southgate Mall to Downtown",,1,13,shp-2-01,0,0
+528070,2,2,"Southgate Mall to Downtown",,1,42,shp-2-01,0,0
+525020,2,1,"Southgate Mall to Downtown",,1,15,shp-2-01,0,0
+547020,2,1,"Southgate Mall to Downtown",,1,281,shp-2-01,0,0
+511020,2,1,"Southgate Mall to Downtown",,1,12,shp-2-01,0,0
+56070,2,2,"Southgate Mall to Downtown",,1,542,shp-2-01,0,0
+553020,2,1,"Southgate Mall to Downtown",,1,22,shp-2-01,0,0
+55070,2,2,"Southgate Mall to Downtown",,1,542,shp-2-01,0,0
+579070,2,2,"Southgate Mall to Downtown",,1,42,shp-2-01,0,0
+571020,2,1,"Southgate Mall to Downtown",,1,14,shp-2-01,0,0
+207070,2,2,"Southgate Mall to Downtown",,1,542,shp-2-01,0,0
+203020,2,1,"Southgate Mall to Downtown",,1,2,shp-2-01,0,0
+204010,2,3,"Southgate Mall to Downtown",,1,62,shp-2-01,0,0
+20020,2,1,"Southgate Mall to Downtown",,1,2,shp-2-01,0,0
+197020,2,1,"Southgate Mall to Downtown",,1,22,shp-2-01,0,0
+174020,2,1,"Southgate Mall to Downtown",,1,14,shp-2-01,0,0
+169020,2,1,"Southgate Mall to Downtown",,1,311,shp-2-01,0,0
+176020,2,1,"Southgate Mall to Downtown",,1,311,shp-2-01,0,0
+12010,2,3,"Southgate Mall to Downtown",,1,65,shp-2-01,0,0
+1136020,2,1,"Southgate Mall to Downtown",,1,12,shp-2-01,0,0
+1137070,2,2,"Southgate Mall to Downtown",,1,42,shp-2-01,0,0
+1133020,2,1,"Southgate Mall to Downtown",,1,2,shp-2-01,0,0
+135020,2,1,"Southgate Mall to Downtown",,1,11,shp-2-01,0,0
+138020,2,1,"Southgate Mall to Downtown",,1,15,shp-2-01,0,0
+129020,2,1,"Southgate Mall to Downtown",,1,22,shp-2-01,0,0
+154070,2,2,"Southgate Mall to Downtown",,1,542,shp-2-01,0,0
+161020,2,1,"Southgate Mall to Downtown",,1,22,shp-2-01,0,0
+159020,2,1,"Southgate Mall to Downtown",,1,311,shp-2-01,0,0
+1095020,2,1,"Southgate Mall to Downtown",,1,11,shp-2-01,0,0
+1110020,2,1,"Southgate Mall to Downtown",,1,12,shp-2-01,0,0
+1106020,2,1,"Southgate Mall to Downtown",,1,15,shp-2-01,0,0
+1104020,2,1,"Southgate Mall to Downtown",,1,18,shp-2-01,0,0
+1043010,2,3,"Southgate Mall to Downtown",,1,62,shp-2-01,0,0
+1024020,2,1,"Southgate Mall to Downtown",,1,22,shp-2-01,0,0
+1007020,2,1,"Southgate Mall to Downtown",,1,292,shp-2-01,0,0
+1002020,2,1,"Southgate Mall to Downtown",,1,12,shp-2-01,0,0
+334070,2,2,"Southgate Mall to Downtown",,1,42,shp-2-01,0,0
+306070,2,2,"Southgate Mall to Downtown",,1,42,shp-2-01,0,0
+315010,2,3,"Southgate Mall to Downtown",,1,65,shp-2-01,0,0
+319020,2,1,"Southgate Mall to Downtown",,1,301,shp-2-01,0,0
+233020,2,1,"Southgate Mall to Downtown",,1,22,shp-2-01,0,0
+367020,2,1,"Southgate Mall to Downtown",,1,15,shp-2-01,0,0
+409010,2,3,"Southgate Mall to Downtown",,1,62,shp-2-01,0,0
+444020,2,1,"Southgate Mall to Downtown",,1,11,shp-2-01,0,0
+437020,2,1,"Southgate Mall to Downtown",,1,14,shp-2-01,0,0
+48010,2,3,"Southgate Mall to Downtown",,1,65,shp-2-01,0,0
+473070,2,2,"Southgate Mall to Downtown",,1,42,shp-2-01,0,0
+457020,2,1,"Southgate Mall to Downtown",,1,301,shp-2-01,0,0
+465020,2,1,"Southgate Mall to Downtown",,1,12,shp-2-01,0,0
+466010,2,3,"Southgate Mall to Downtown",,1,62,shp-2-01,0,0
+443010,3,3,"Downtown to Northside",,0,68,shp-3-51,0,0
+450020,3,1,"Downtown to Northside",,0,1,shp-3-51,0,0
+42020,3,1,"Downtown to Northside",,0,1,shp-3-51,0,0
+404010,3,3,"Downtown to Northside",,0,701,shp-3-51,0,0
+399070,3,2,"Downtown to Northside",,0,552,shp-3-51,0,0
+230070,3,2,"Downtown to Northside",,0,552,shp-3-51,0,0
+240020,3,1,"Downtown to Northside",,0,16,shp-3-51,0,0
+1014010,3,3,"Downtown to Northside",,0,65,shp-3-51,0,0
+1060020,3,1,"Downtown to Northside",,0,17,shp-3-51,0,0
+1066020,3,1,"Downtown to Northside",,0,17,shp-3-51,0,0
+1088020,3,1,"Downtown to Northside",,0,17,shp-3-51,0,0
+1127020,3,1,"Downtown to Northside",,0,1,shp-3-51,0,0
+1096020,3,1,"Downtown to Northside",,0,23,shp-3-51,0,0
+134010,3,3,"Downtown to Northside",,0,68,shp-3-51,0,0
+1135020,3,1,"Downtown to Northside",,0,1,shp-3-51,0,0
+1143010,3,3,"Downtown to Northside",,0,65,shp-3-51,0,0
+123020,3,1,"Downtown to Northside",,0,25,shp-3-51,0,0
+180070,3,2,"Downtown to Northside",,0,552,shp-3-51,0,0
+205070,3,2,"Downtown to Northside",,0,40,shp-3-51,0,0
+214020,3,1,"Downtown to Northside",,0,16,shp-3-51,0,0
+184070,3,2,"Downtown to Northside",,0,552,shp-3-51,0,0
+584010,3,3,"Downtown to Northside",,0,68,shp-3-51,0,0
+508070,3,2,"Downtown to Northside",,0,552,shp-3-51,0,0
+542020,3,1,"Downtown to Northside",,0,23,shp-3-51,0,0
+531020,3,1,"Downtown to Northside",,0,23,shp-3-51,0,0
+668010,3,3,"Downtown to Northside",,0,68,shp-3-51,0,0
+671020,3,1,"Downtown to Northside",,0,17,shp-3-51,0,0
+676010,3,3,"Downtown to Northside",,0,701,shp-3-51,0,0
+63070,3,2,"Downtown to Northside",,0,552,shp-3-51,0,0
+64070,3,2,"Downtown to Northside",,0,552,shp-3-51,0,0
+636010,3,3,"Downtown to Northside",,0,68,shp-3-51,0,0
+712010,3,3,"Downtown to Northside",,0,701,shp-3-51,0,0
+73070,3,2,"Downtown to Northside",,0,40,shp-3-51,0,0
+743020,3,1,"Downtown to Northside",,0,25,shp-3-51,0,0
+701070,3,2,"Downtown to Northside",,0,40,shp-3-51,0,0
+707010,3,3,"Downtown to Northside",,0,68,shp-3-51,0,0
+788020,3,1,"Downtown to Northside",,0,1,shp-3-51,0,0
+756070,3,2,"Downtown to Northside",,0,40,shp-3-51,0,0
+87070,3,2,"Downtown to Northside",,0,40,shp-3-51,0,0
+807020,3,1,"Downtown to Northside",,0,16,shp-3-51,0,0
+836020,3,1,"Downtown to Northside",,0,25,shp-3-51,0,0
+913010,3,3,"Downtown to Northside",,0,68,shp-3-51,0,0
+897010,3,3,"Downtown to Northside",,0,701,shp-3-51,0,0
+879020,3,1,"Downtown to Northside",,0,1,shp-3-51,0,0
+995020,3,1,"Downtown to Northside",,0,1,shp-3-51,0,0
+98020,3,1,"Downtown to Northside",,0,16,shp-3-51,0,0
+952020,3,1,"Downtown to Northside",,0,1,shp-3-51,0,0
+95070,3,2,"Downtown to Northside",,0,40,shp-3-51,0,0
+949020,3,1,"Northside to Downtown",,1,1,shp-3-01,0,0
+950010,3,3,"Northside to Downtown",,1,701,shp-3-01,0,0
+947020,3,1,"Northside to Downtown",,1,16,shp-3-01,0,0
+941020,3,1,"Northside to Downtown",,1,17,shp-3-01,0,0
+984070,3,2,"Northside to Downtown",,1,40,shp-3-01,0,0
+978020,3,1,"Northside to Downtown",,1,1,shp-3-01,0,0
+991070,3,2,"Northside to Downtown",,1,552,shp-3-01,0,0
+868070,3,2,"Northside to Downtown",,1,552,shp-3-01,0,0
+843010,3,3,"Northside to Downtown",,1,701,shp-3-01,0,0
+750070,3,2,"Northside to Downtown",,1,552,shp-3-01,0,0
+775020,3,1,"Northside to Downtown",,1,1,shp-3-01,0,0
+793070,3,2,"Northside to Downtown",,1,40,shp-3-01,0,0
+777070,3,2,"Northside to Downtown",,1,552,shp-3-01,0,0
+690020,3,1,"Northside to Downtown",,1,25,shp-3-01,0,0
+715010,3,3,"Northside to Downtown",,1,68,shp-3-01,0,0
+719010,3,3,"Northside to Downtown",,1,68,shp-3-01,0,0
+72020,3,1,"Northside to Downtown",,1,17,shp-3-01,0,0
+633010,3,3,"Northside to Downtown",,1,701,shp-3-01,0,0
+621020,3,1,"Northside to Downtown",,1,23,shp-3-01,0,0
+622020,3,1,"Northside to Downtown",,1,1,shp-3-01,0,0
+677020,3,1,"Northside to Downtown",,1,16,shp-3-01,0,0
+649020,3,1,"Northside to Downtown",,1,1,shp-3-01,0,0
+660020,3,1,"Northside to Downtown",,1,23,shp-3-01,0,0
+66070,3,2,"Northside to Downtown",,1,552,shp-3-01,0,0
+598020,3,1,"Northside to Downtown",,1,1,shp-3-01,0,0
+609010,3,3,"Northside to Downtown",,1,68,shp-3-01,0,0
+572070,3,2,"Northside to Downtown",,1,552,shp-3-01,0,0
+573010,3,3,"Northside to Downtown",,1,68,shp-3-01,0,0
+199020,3,1,"Northside to Downtown",,1,23,shp-3-01,0,0
+140070,3,2,"Northside to Downtown",,1,40,shp-3-01,0,0
+107020,3,1,"Northside to Downtown",,1,16,shp-3-01,0,0
+1057010,3,3,"Northside to Downtown",,1,68,shp-3-01,0,0
+1005070,3,2,"Northside to Downtown",,1,552,shp-3-01,0,0
+238010,3,3,"Northside to Downtown",,1,701,shp-3-01,0,0
+234020,3,1,"Northside to Downtown",,1,25,shp-3-01,0,0
+252010,3,3,"Northside to Downtown",,1,68,shp-3-01,0,0
+262020,3,1,"Northside to Downtown",,1,17,shp-3-01,0,0
+288020,3,1,"Northside to Downtown",,1,17,shp-3-01,0,0
+344010,3,3,"Northside to Downtown",,1,65,shp-3-01,0,0
+348020,3,1,"Northside to Downtown",,1,25,shp-3-01,0,0
+393010,3,3,"Northside to Downtown",,1,65,shp-3-01,0,0
+391010,3,3,"Northside to Downtown",,1,68,shp-3-01,0,0
+401070,3,2,"Northside to Downtown",,1,40,shp-3-01,0,0
+351020,3,1,"Northside to Downtown",,1,16,shp-3-01,0,0
+445070,3,2,"Northside to Downtown",,1,40,shp-3-01,0,0
+468070,3,2,"Northside to Downtown",,1,40,shp-3-01,0,0
+469020,3,1,"Northside to Downtown",,1,1,shp-3-01,0,0
+477020,3,1,"Northside to Downtown",,1,1,shp-3-01,0,0
+382020,4,1,"Bonner to Downtown",,1,10,shp-4-02,0,0
+39020,4,1,"Bonner to Downtown",,1,7,shp-4-02,0,0
+4010,4,3,"Bonner to Downtown",,1,61,shp-4-02,0,0
+35070,4,2,"Bonner to Downtown",,1,46,shp-4-02,0,0
+345020,4,1,"Bonner to Downtown",,1,10,shp-4-02,0,0
+329020,4,1,"Bonner to Downtown",,1,10,shp-4-02,0,0
+312070,4,2,"Bonner to Downtown",,1,51,shp-4-02,0,0
+274010,4,3,"Bonner to Downtown",,1,61,shp-4-02,0,0
+260010,4,3,"Bonner to Downtown",,1,61,shp-4-02,0,0
+228020,4,1,"Bonner to Downtown",,1,7,shp-4-02,0,0
+1000070,4,2,"Bonner to Downtown",,1,46,shp-4-02,0,0
+1012020,4,1,"Bonner to Downtown",,1,7,shp-4-02,0,0
+1027020,4,1,"Bonner to Downtown",,1,10,shp-4-02,0,0
+1022010,4,3,"Bonner to Downtown",,1,61,shp-4-02,0,0
+1054070,4,2,"Bonner to Downtown",,1,46,shp-4-02,0,0
+1055070,4,2,"Bonner to Downtown",,1,46,shp-4-02,0,0
+1091070,4,2,"Bonner to Downtown",,1,46,shp-4-02,0,0
+1105010,4,3,"Bonner to Downtown",,1,712,shp-4-02,0,0
+224070,4,2,"Bonner to Downtown",,1,51,shp-4-02,0,0
+165070,4,2,"Bonner to Downtown",,1,51,shp-4-02,0,0
+561070,4,2,"Bonner to Downtown",,1,46,shp-4-02,0,0
+559020,4,1,"Bonner to Downtown",,1,10,shp-4-02,0,0
+601020,4,1,"Bonner to Downtown",,1,7,shp-4-02,0,0
+588020,4,1,"Bonner to Downtown",,1,7,shp-4-02,0,0
+516020,4,1,"Bonner to Downtown",,1,10,shp-4-02,0,0
+489020,4,1,"Bonner to Downtown",,1,7,shp-4-02,0,0
+670020,4,1,"Bonner to Downtown",,1,7,shp-4-02,0,0
+620070,4,2,"Bonner to Downtown",,1,46,shp-4-02,0,0
+714010,4,3,"Bonner to Downtown",,1,61,shp-4-02,0,0
+796020,4,1,"Bonner to Downtown",,1,7,shp-4-02,0,0
+767070,4,2,"Bonner to Downtown",,1,46,shp-4-02,0,0
+870010,4,3,"Bonner to Downtown",,1,61,shp-4-02,0,0
+835010,4,3,"Bonner to Downtown",,1,61,shp-4-02,0,0
+981070,4,2,"Bonner to Downtown",,1,51,shp-4-02,0,0
+942010,4,3,"Bonner to Downtown",,1,712,shp-4-02,0,0
+965010,4,3,"Bonner to Downtown",,1,712,shp-4-02,0,0
+969020,4,1,"Bonner to Downtown",,1,10,shp-4-02,0,0
+96010,4,3,"Bonner to Downtown",,1,61,shp-4-02,0,0
+938010,4,3,"Downtown to Bonner",,0,712,shp-4-52,0,0
+986010,4,3,"Downtown to Bonner",,0,61,shp-4-52,0,0
+888010,4,3,"Downtown to Bonner",,0,712,shp-4-52,0,0
+866020,4,1,"Downtown to Bonner",,0,10,shp-4-52,0,0
+895020,4,1,"Downtown to Bonner",,0,7,shp-4-52,0,0
+926010,4,3,"Downtown to Bonner",,0,61,shp-4-52,0,0
+815020,4,1,"Downtown to Bonner",,0,10,shp-4-52,0,0
+842020,4,1,"Downtown to Bonner",,0,10,shp-4-52,0,0
+847020,4,1,"Downtown to Bonner",,0,7,shp-4-52,0,0
+849010,4,3,"Downtown to Bonner",,0,61,shp-4-52,0,0
+745070,4,2,"Downtown to Bonner",,0,46,shp-4-52,0,0
+711020,4,1,"Downtown to Bonner",,0,7,shp-4-52,0,0
+614020,4,1,"Downtown to Bonner",,0,10,shp-4-52,0,0
+67010,4,3,"Downtown to Bonner",,0,61,shp-4-52,0,0
+549070,4,2,"Downtown to Bonner",,0,51,shp-4-52,0,0
+533010,4,3,"Downtown to Bonner",,0,61,shp-4-52,0,0
+604070,4,2,"Downtown to Bonner",,0,51,shp-4-52,0,0
+610070,4,2,"Downtown to Bonner",,0,46,shp-4-52,0,0
+565020,4,1,"Downtown to Bonner",,0,10,shp-4-52,0,0
+567010,4,3,"Downtown to Bonner",,0,61,shp-4-52,0,0
+57020,4,1,"Downtown to Bonner",,0,7,shp-4-52,0,0
+166070,4,2,"Downtown to Bonner",,0,51,shp-4-52,0,0
+173070,4,2,"Downtown to Bonner",,0,46,shp-4-52,0,0
+188010,4,3,"Downtown to Bonner",,0,61,shp-4-52,0,0
+1099020,4,1,"Downtown to Bonner",,0,10,shp-4-52,0,0
+1111020,4,1,"Downtown to Bonner",,0,10,shp-4-52,0,0
+1124010,4,3,"Downtown to Bonner",,0,61,shp-4-52,0,0
+1130070,4,2,"Downtown to Bonner",,0,46,shp-4-52,0,0
+1122070,4,2,"Downtown to Bonner",,0,46,shp-4-52,0,0
+1097020,4,1,"Downtown to Bonner",,0,7,shp-4-52,0,0
+1087010,4,3,"Downtown to Bonner",,0,712,shp-4-52,0,0
+1019070,4,2,"Downtown to Bonner",,0,46,shp-4-52,0,0
+1016020,4,1,"Downtown to Bonner",,0,7,shp-4-52,0,0
+1008020,4,1,"Downtown to Bonner",,0,7,shp-4-52,0,0
+304020,4,1,"Downtown to Bonner",,0,10,shp-4-52,0,0
+321010,4,3,"Downtown to Bonner",,0,712,shp-4-52,0,0
+398070,4,2,"Downtown to Bonner",,0,51,shp-4-52,0,0
+47070,4,2,"Downtown to Bonner",,0,46,shp-4-52,0,0
+458070,4,2,"Downtown to Bonner",,0,46,shp-4-52,0,0
+431070,4,2,"Downtown to Bonner",,0,46,shp-4-52,0,0
+430010,5,3,"Downtown to Lincolnwood",,0,68,shp-5-51,0,0
+446070,5,2,"Downtown to Lincolnwood",,0,552,shp-5-51,0,0
+452020,5,1,"Downtown to Lincolnwood",,0,17,shp-5-51,0,0
+481070,5,2,"Downtown to Lincolnwood",,0,552,shp-5-51,0,0
+378070,5,2,"Downtown to Lincolnwood",,0,552,shp-5-51,0,0
+372010,5,3,"Downtown to Lincolnwood",,0,65,shp-5-51,0,0
+361010,5,3,"Downtown to Lincolnwood",,0,68,shp-5-51,0,0
+369070,5,2,"Downtown to Lincolnwood",,0,40,shp-5-51,0,0
+331010,5,3,"Downtown to Lincolnwood",,0,68,shp-5-51,0,0
+308070,5,2,"Downtown to Lincolnwood",,0,40,shp-5-51,0,0
+241070,5,2,"Downtown to Lincolnwood",,0,40,shp-5-51,0,0
+271010,5,3,"Downtown to Lincolnwood",,0,701,shp-5-51,0,0
+283010,5,3,"Downtown to Lincolnwood",,0,65,shp-5-51,0,0
+1028020,5,1,"Downtown to Lincolnwood",,0,16,shp-5-51,0,0
+1029020,5,1,"Downtown to Lincolnwood",,0,1,shp-5-51,0,0
+1038020,5,1,"Downtown to Lincolnwood",,0,1,shp-5-51,0,0
+113070,5,2,"Downtown to Lincolnwood",,0,552,shp-5-51,0,0
+193070,5,2,"Downtown to Lincolnwood",,0,40,shp-5-51,0,0
+152010,5,3,"Downtown to Lincolnwood",,0,68,shp-5-51,0,0
+1103010,5,3,"Downtown to Lincolnwood",,0,68,shp-5-51,0,0
+580020,5,1,"Downtown to Lincolnwood",,0,1,shp-5-51,0,0
+550020,5,1,"Downtown to Lincolnwood",,0,16,shp-5-51,0,0
+545010,5,3,"Downtown to Lincolnwood",,0,701,shp-5-51,0,0
+522070,5,2,"Downtown to Lincolnwood",,0,552,shp-5-51,0,0
+523020,5,1,"Downtown to Lincolnwood",,0,1,shp-5-51,0,0
+672020,5,1,"Downtown to Lincolnwood",,0,1,shp-5-51,0,0
+674020,5,1,"Downtown to Lincolnwood",,0,16,shp-5-51,0,0
+632070,5,2,"Downtown to Lincolnwood",,0,552,shp-5-51,0,0
+717070,5,2,"Downtown to Lincolnwood",,0,552,shp-5-51,0,0
+725020,5,1,"Downtown to Lincolnwood",,0,17,shp-5-51,0,0
+749020,5,1,"Downtown to Lincolnwood",,0,17,shp-5-51,0,0
+752070,5,2,"Downtown to Lincolnwood",,0,40,shp-5-51,0,0
+845010,5,3,"Downtown to Lincolnwood",,0,701,shp-5-51,0,0
+923020,5,1,"Downtown to Lincolnwood",,0,1,shp-5-51,0,0
+935020,5,1,"Downtown to Lincolnwood",,0,1,shp-5-51,0,0
+914070,5,2,"Downtown to Lincolnwood",,0,40,shp-5-51,0,0
+877020,5,1,"Downtown to Lincolnwood",,0,16,shp-5-51,0,0
+975010,5,3,"Downtown to Lincolnwood",,0,68,shp-5-51,0,0
+973020,5,1,"Downtown to Lincolnwood",,0,1,shp-5-51,0,0
+94020,5,1,"Downtown to Lincolnwood",,0,17,shp-5-51,0,0
+97010,5,3,"Downtown to Lincolnwood",,0,701,shp-5-51,0,0
+966070,5,2,"Lincolnwood to Downtown",,1,40,shp-5-01,0,0
+955070,5,2,"Lincolnwood to Downtown",,1,552,shp-5-01,0,0
+979020,5,1,"Lincolnwood to Downtown",,1,16,shp-5-01,0,0
+875020,5,1,"Lincolnwood to Downtown",,1,16,shp-5-01,0,0
+850010,5,3,"Lincolnwood to Downtown",,1,701,shp-5-01,0,0
+85020,5,1,"Lincolnwood to Downtown",,1,1,shp-5-01,0,0
+871020,5,1,"Lincolnwood to Downtown",,1,1,shp-5-01,0,0
+764020,5,1,"Lincolnwood to Downtown",,1,1,shp-5-01,0,0
+721070,5,2,"Lincolnwood to Downtown",,1,552,shp-5-01,0,0
+735020,5,1,"Lincolnwood to Downtown",,1,16,shp-5-01,0,0
+709010,5,3,"Lincolnwood to Downtown",,1,701,shp-5-01,0,0
+694020,5,1,"Lincolnwood to Downtown",,1,17,shp-5-01,0,0
+634070,5,2,"Lincolnwood to Downtown",,1,40,shp-5-01,0,0
+615010,5,3,"Lincolnwood to Downtown",,1,68,shp-5-01,0,0
+496020,5,1,"Lincolnwood to Downtown",,1,16,shp-5-01,0,0
+599070,5,2,"Lincolnwood to Downtown",,1,40,shp-5-01,0,0
+147070,5,2,"Lincolnwood to Downtown",,1,552,shp-5-01,0,0
+227070,5,2,"Lincolnwood to Downtown",,1,552,shp-5-01,0,0
+221020,5,1,"Lincolnwood to Downtown",,1,1,shp-5-01,0,0
+213010,5,3,"Lincolnwood to Downtown",,1,68,shp-5-01,0,0
+1117010,5,3,"Lincolnwood to Downtown",,1,68,shp-5-01,0,0
+1112020,5,1,"Lincolnwood to Downtown",,1,17,shp-5-01,0,0
+11020,5,1,"Lincolnwood to Downtown",,1,17,shp-5-01,0,0
+1061010,5,3,"Lincolnwood to Downtown",,1,701,shp-5-01,0,0
+1069070,5,2,"Lincolnwood to Downtown",,1,552,shp-5-01,0,0
+1048070,5,2,"Lincolnwood to Downtown",,1,40,shp-5-01,0,0
+1010070,5,2,"Lincolnwood to Downtown",,1,552,shp-5-01,0,0
+273020,5,1,"Lincolnwood to Downtown",,1,1,shp-5-01,0,0
+320020,5,1,"Lincolnwood to Downtown",,1,1,shp-5-01,0,0
+316010,5,3,"Lincolnwood to Downtown",,1,701,shp-5-01,0,0
+307010,5,3,"Lincolnwood to Downtown",,1,68,shp-5-01,0,0
+3010,5,3,"Lincolnwood to Downtown",,1,68,shp-5-01,0,0
+292010,5,3,"Lincolnwood to Downtown",,1,65,shp-5-01,0,0
+34020,5,1,"Lincolnwood to Downtown",,1,1,shp-5-01,0,0
+36070,5,2,"Lincolnwood to Downtown",,1,40,shp-5-01,0,0
+405070,5,2,"Lincolnwood to Downtown",,1,552,shp-5-01,0,0
+413010,5,3,"Lincolnwood to Downtown",,1,65,shp-5-01,0,0
+411070,5,2,"Lincolnwood to Downtown",,1,40,shp-5-01,0,0
+462020,5,1,"Lincolnwood to Downtown",,1,1,shp-5-01,0,0
+438010,5,3,"Lincolnwood to Downtown",,1,68,shp-5-01,0,0
+439020,5,1,"Lincolnwood to Downtown",,1,17,shp-5-01,0,0
+478070,6,2,"Community Medical Center to Downtown",,1,49,shp-6-01,0,0
+323020,6,1,"Community Medical Center to Downtown",,1,2,shp-6-01,0,0
+318020,6,1,"Community Medical Center to Downtown",,1,2,shp-6-01,0,0
+289020,6,1,"Community Medical Center to Downtown",,1,13,shp-6-01,0,0
+290070,6,2,"Community Medical Center to Downtown",,1,41,shp-6-01,0,0
+272020,6,1,"Community Medical Center to Downtown",,1,312,shp-6-01,0,0
+261020,6,1,"Community Medical Center to Downtown",,1,21,shp-6-01,0,0
+229010,6,3,"Community Medical Center to Downtown",,1,69,shp-6-01,0,0
+255020,6,1,"Community Medical Center to Downtown",,1,271,shp-6-01,0,0
+1040020,6,1,"Community Medical Center to Downtown",,1,21,shp-6-01,0,0
+1090020,6,1,"Community Medical Center to Downtown",,1,271,shp-6-01,0,0
+1098010,6,3,"Community Medical Center to Downtown",,1,69,shp-6-01,0,0
+1094070,6,2,"Community Medical Center to Downtown",,1,49,shp-6-01,0,0
+1107010,6,3,"Community Medical Center to Downtown",,1,69,shp-6-01,0,0
+1108070,6,2,"Community Medical Center to Downtown",,1,41,shp-6-01,0,0
+1131020,6,1,"Community Medical Center to Downtown",,1,312,shp-6-01,0,0
+201020,6,1,"Community Medical Center to Downtown",,1,312,shp-6-01,0,0
+223020,6,1,"Community Medical Center to Downtown",,1,21,shp-6-01,0,0
+183020,6,1,"Community Medical Center to Downtown",,1,312,shp-6-01,0,0
+15020,6,1,"Community Medical Center to Downtown",,1,25,shp-6-01,0,0
+156070,6,2,"Community Medical Center to Downtown",,1,49,shp-6-01,0,0
+127010,6,3,"Community Medical Center to Downtown",,1,60,shp-6-01,0,0
+132010,6,3,"Community Medical Center to Downtown",,1,60,shp-6-01,0,0
+607020,6,1,"Community Medical Center to Downtown",,1,25,shp-6-01,0,0
+587010,6,3,"Community Medical Center to Downtown",,1,60,shp-6-01,0,0
+594010,6,3,"Community Medical Center to Downtown",,1,69,shp-6-01,0,0
+576070,6,2,"Community Medical Center to Downtown",,1,49,shp-6-01,0,0
+568020,6,1,"Community Medical Center to Downtown",,1,13,shp-6-01,0,0
+564070,6,2,"Community Medical Center to Downtown",,1,49,shp-6-01,0,0
+557070,6,2,"Community Medical Center to Downtown",,1,49,shp-6-01,0,0
+504020,6,1,"Community Medical Center to Downtown",,1,21,shp-6-01,0,0
+530020,6,1,"Community Medical Center to Downtown",,1,271,shp-6-01,0,0
+535070,6,2,"Community Medical Center to Downtown",,1,41,shp-6-01,0,0
+616010,6,3,"Community Medical Center to Downtown",,1,69,shp-6-01,0,0
+641010,6,3,"Community Medical Center to Downtown",,1,60,shp-6-01,0,0
+642070,6,2,"Community Medical Center to Downtown",,1,49,shp-6-01,0,0
+678070,6,2,"Community Medical Center to Downtown",,1,41,shp-6-01,0,0
+663020,6,1,"Community Medical Center to Downtown",,1,21,shp-6-01,0,0
+698020,6,1,"Community Medical Center to Downtown",,1,271,shp-6-01,0,0
+774020,6,1,"Community Medical Center to Downtown",,1,21,shp-6-01,0,0
+759020,6,1,"Community Medical Center to Downtown",,1,21,shp-6-01,0,0
+844070,6,2,"Community Medical Center to Downtown",,1,49,shp-6-01,0,0
+823020,6,1,"Community Medical Center to Downtown",,1,13,shp-6-01,0,0
+814020,6,1,"Community Medical Center to Downtown",,1,2,shp-6-01,0,0
+821070,6,2,"Community Medical Center to Downtown",,1,41,shp-6-01,0,0
+892020,6,1,"Community Medical Center to Downtown",,1,25,shp-6-01,0,0
+902010,6,3,"Community Medical Center to Downtown",,1,69,shp-6-01,0,0
+903010,6,3,"Community Medical Center to Downtown",,1,60,shp-6-01,0,0
+933010,6,3,"Community Medical Center to Downtown",,1,60,shp-6-01,0,0
+974020,6,1,"Community Medical Center to Downtown",,1,2,shp-6-01,0,0
+954020,6,1,"Community Medical Center to Downtown",,1,2,shp-6-01,0,0
+961070,6,2,"Community Medical Center to Downtown",,1,41,shp-6-01,0,0
+958020,6,1,"Community Medical Center to Downtown",,1,25,shp-6-01,0,0
+939020,6,1,"Community Medical Center to Downtown",,1,21,shp-6-01,0,0
+940020,6,1,"Community Medical Center to Downtown",,1,13,shp-6-01,0,0
+920070,6,2,"Downtown to Community Medical Center",,0,49,shp-6-51,0,0
+889010,6,3,"Downtown to Community Medical Center",,0,60,shp-6-51,0,0
+890020,6,1,"Downtown to Community Medical Center",,0,271,shp-6-51,0,0
+828020,6,1,"Downtown to Community Medical Center",,0,21,shp-6-51,0,0
+82070,6,2,"Downtown to Community Medical Center",,0,41,shp-6-51,0,0
+770020,6,1,"Downtown to Community Medical Center",,0,2,shp-6-51,0,0
+797010,6,3,"Downtown to Community Medical Center",,0,69,shp-6-51,0,0
+802070,6,2,"Downtown to Community Medical Center",,0,49,shp-6-51,0,0
+80020,6,1,"Downtown to Community Medical Center",,0,21,shp-6-51,0,0
+801020,6,1,"Downtown to Community Medical Center",,0,13,shp-6-51,0,0
+806020,6,1,"Downtown to Community Medical Center",,0,21,shp-6-51,0,0
+708010,6,3,"Downtown to Community Medical Center",,0,60,shp-6-51,0,0
+693020,6,1,"Downtown to Community Medical Center",,0,25,shp-6-51,0,0
+69070,6,2,"Downtown to Community Medical Center",,0,49,shp-6-51,0,0
+734010,6,3,"Downtown to Community Medical Center",,0,60,shp-6-51,0,0
+648020,6,1,"Downtown to Community Medical Center",,0,13,shp-6-51,0,0
+654020,6,1,"Downtown to Community Medical Center",,0,312,shp-6-51,0,0
+666020,6,1,"Downtown to Community Medical Center",,0,21,shp-6-51,0,0
+639010,6,3,"Downtown to Community Medical Center",,0,69,shp-6-51,0,0
+537020,6,1,"Downtown to Community Medical Center",,0,312,shp-6-51,0,0
+546020,6,1,"Downtown to Community Medical Center",,0,271,shp-6-51,0,0
+526020,6,1,"Downtown to Community Medical Center",,0,271,shp-6-51,0,0
+494020,6,1,"Downtown to Community Medical Center",,0,13,shp-6-51,0,0
+574010,6,3,"Downtown to Community Medical Center",,0,69,shp-6-51,0,0
+581020,6,1,"Downtown to Community Medical Center",,0,312,shp-6-51,0,0
+6070,6,2,"Downtown to Community Medical Center",,0,41,shp-6-51,0,0
+59020,6,1,"Downtown to Community Medical Center",,0,2,shp-6-51,0,0
+603010,6,3,"Downtown to Community Medical Center",,0,60,shp-6-51,0,0
+121070,6,2,"Downtown to Community Medical Center",,0,49,shp-6-51,0,0
+1144020,6,1,"Downtown to Community Medical Center",,0,2,shp-6-51,0,0
+1146070,6,2,"Downtown to Community Medical Center",,0,49,shp-6-51,0,0
+114020,6,1,"Downtown to Community Medical Center",,0,25,shp-6-51,0,0
+16070,6,2,"Downtown to Community Medical Center",,0,41,shp-6-51,0,0
+163010,6,3,"Downtown to Community Medical Center",,0,60,shp-6-51,0,0
+200070,6,2,"Downtown to Community Medical Center",,0,49,shp-6-51,0,0
+1081070,6,2,"Downtown to Community Medical Center",,0,49,shp-6-51,0,0
+106020,6,1,"Downtown to Community Medical Center",,0,21,shp-6-51,0,0
+1003020,6,1,"Downtown to Community Medical Center",,0,13,shp-6-51,0,0
+1031070,6,2,"Downtown to Community Medical Center",,0,49,shp-6-51,0,0
+1023020,6,1,"Downtown to Community Medical Center",,0,25,shp-6-51,0,0
+246020,6,1,"Downtown to Community Medical Center",,0,2,shp-6-51,0,0
+247070,6,2,"Downtown to Community Medical Center",,0,41,shp-6-51,0,0
+277020,6,1,"Downtown to Community Medical Center",,0,312,shp-6-51,0,0
+327010,6,3,"Downtown to Community Medical Center",,0,69,shp-6-51,0,0
+335010,6,3,"Downtown to Community Medical Center",,0,69,shp-6-51,0,0
+350010,6,3,"Downtown to Community Medical Center",,0,69,shp-6-51,0,0
+483070,6,2,"Downtown to Community Medical Center",,0,41,shp-6-51,0,0
+46010,6,3,"Downtown to Community Medical Center",,0,60,shp-6-51,0,0
+447020,6,1,"Downtown to Community Medical Center",,0,2,shp-6-51,0,0
+442020,6,1,"Downtown to Community Medical Center",,0,21,shp-6-51,0,0
+424020,6,1,"Downtown to Community Medical Center",,0,271,shp-6-51,0,0
+415020,6,1,"Downtown to Community Medical Center",,0,25,shp-6-51,0,0
+406070,6,2,"Downtown to Community Medical Center",,0,41,shp-6-51,0,0
+355020,6,1,"Downtown to Community Medical Center",,0,21,shp-6-51,0,0
+379020,6,1,"Downtown to Community Medical Center",,0,21,shp-6-51,0,0
+681020,6,1,"South & Garfield to Downtown",,1,271,shp-6-02,0,0
+697010,7,3,"Downtown to Walmart",,0,66,shp-7-51,0,0
+702020,7,1,"Downtown to Walmart",,0,291,shp-7-51,0,0
+731070,7,2,"Downtown to Walmart",,0,44,shp-7-51,0,0
+723010,7,3,"Downtown to Walmart",,0,66,shp-7-51,0,0
+728070,7,2,"Downtown to Walmart",,0,44,shp-7-51,0,0
+644020,7,1,"Downtown to Walmart",,0,8,shp-7-51,0,0
+617070,7,2,"Downtown to Walmart",,0,44,shp-7-51,0,0
+631020,7,1,"Downtown to Walmart",,0,8,shp-7-51,0,0
+627020,7,1,"Downtown to Walmart",,0,3,shp-7-51,0,0
+675010,7,3,"Downtown to Walmart",,0,66,shp-7-51,0,0
+656020,7,1,"Downtown to Walmart",,0,272,shp-7-51,0,0
+602020,7,1,"Downtown to Walmart",,0,272,shp-7-51,0,0
+590020,7,1,"Downtown to Walmart",,0,272,shp-7-51,0,0
+592010,7,3,"Downtown to Walmart",,0,66,shp-7-51,0,0
+566010,7,3,"Downtown to Walmart",,0,66,shp-7-51,0,0
+563020,7,1,"Downtown to Walmart",,0,16,shp-7-51,0,0
+505070,7,2,"Downtown to Walmart",,0,50,shp-7-51,0,0
+492020,7,1,"Downtown to Walmart",,0,16,shp-7-51,0,0
+784070,7,2,"Downtown to Walmart",,0,50,shp-7-51,0,0
+772020,7,1,"Downtown to Walmart",,0,18,shp-7-51,0,0
+769070,7,2,"Downtown to Walmart",,0,50,shp-7-51,0,0
+827010,7,3,"Downtown to Walmart",,0,66,shp-7-51,0,0
+846010,7,3,"Downtown to Walmart",,0,711,shp-7-51,0,0
+872070,7,2,"Downtown to Walmart",,0,44,shp-7-51,0,0
+865020,7,1,"Downtown to Walmart",,0,18,shp-7-51,0,0
+880070,7,2,"Downtown to Walmart",,0,44,shp-7-51,0,0
+88070,7,2,"Downtown to Walmart",,0,44,shp-7-51,0,0
+893070,7,2,"Downtown to Walmart",,0,44,shp-7-51,0,0
+91020,7,1,"Downtown to Walmart",,0,18,shp-7-51,0,0
+416020,7,1,"Downtown to Walmart",,0,3,shp-7-51,0,0
+417020,7,1,"Downtown to Walmart",,0,8,shp-7-51,0,0
+392020,7,1,"Downtown to Walmart",,0,18,shp-7-51,0,0
+448010,7,3,"Downtown to Walmart",,0,711,shp-7-51,0,0
+454010,7,3,"Downtown to Walmart",,0,66,shp-7-51,0,0
+451020,7,1,"Downtown to Walmart",,0,18,shp-7-51,0,0
+479020,7,1,"Downtown to Walmart",,0,16,shp-7-51,0,0
+333020,7,1,"Downtown to Walmart",,0,291,shp-7-51,0,0
+324020,7,1,"Downtown to Walmart",,0,291,shp-7-51,0,0
+276070,7,2,"Downtown to Walmart",,0,50,shp-7-51,0,0
+259010,7,3,"Downtown to Walmart",,0,66,shp-7-51,0,0
+267020,7,1,"Downtown to Walmart",,0,291,shp-7-51,0,0
+248020,7,1,"Downtown to Walmart",,0,18,shp-7-51,0,0
+1052010,7,3,"Downtown to Walmart",,0,711,shp-7-51,0,0
+1082020,7,1,"Downtown to Walmart",,0,16,shp-7-51,0,0
+110010,7,3,"Downtown to Walmart",,0,711,shp-7-51,0,0
+1101020,7,1,"Downtown to Walmart",,0,3,shp-7-51,0,0
+164070,7,2,"Downtown to Walmart",,0,44,shp-7-51,0,0
+189070,7,2,"Downtown to Walmart",,0,50,shp-7-51,0,0
+145070,7,2,"Downtown to Walmart",,0,50,shp-7-51,0,0
+146070,7,2,"Walmart to Downtown",,1,44,shp-7-01,0,0
+120020,7,1,"Walmart to Downtown",,1,8,shp-7-01,0,0
+125070,7,2,"Walmart to Downtown",,1,44,shp-7-01,0,0
+198010,7,3,"Walmart to Downtown",,1,66,shp-7-01,0,0
+206070,7,2,"Walmart to Downtown",,1,44,shp-7-01,0,0
+1102070,7,2,"Walmart to Downtown",,1,50,shp-7-01,0,0
+1129010,7,3,"Walmart to Downtown",,1,711,shp-7-01,0,0
+1077020,7,1,"Walmart to Downtown",,1,18,shp-7-01,0,0
+104010,7,3,"Walmart to Downtown",,1,711,shp-7-01,0,0
+1041010,7,3,"Walmart to Downtown",,1,711,shp-7-01,0,0
+102020,7,1,"Walmart to Downtown",,1,16,shp-7-01,0,0
+258070,7,2,"Walmart to Downtown",,1,50,shp-7-01,0,0
+27070,7,2,"Walmart to Downtown",,1,50,shp-7-01,0,0
+328070,7,2,"Walmart to Downtown",,1,44,shp-7-01,0,0
+317010,7,3,"Walmart to Downtown",,1,711,shp-7-01,0,0
+286020,7,1,"Walmart to Downtown",,1,18,shp-7-01,0,0
+298020,7,1,"Walmart to Downtown",,1,272,shp-7-01,0,0
+471020,7,1,"Walmart to Downtown",,1,16,shp-7-01,0,0
+475020,7,1,"Walmart to Downtown",,1,18,shp-7-01,0,0
+422010,7,3,"Walmart to Downtown",,1,66,shp-7-01,0,0
+37010,7,3,"Walmart to Downtown",,1,66,shp-7-01,0,0
+38070,7,2,"Walmart to Downtown",,1,50,shp-7-01,0,0
+381020,7,1,"Walmart to Downtown",,1,3,shp-7-01,0,0
+375020,7,1,"Walmart to Downtown",,1,291,shp-7-01,0,0
+930020,7,1,"Walmart to Downtown",,1,18,shp-7-01,0,0
+922020,7,1,"Walmart to Downtown",,1,18,shp-7-01,0,0
+925020,7,1,"Walmart to Downtown",,1,272,shp-7-01,0,0
+881020,7,1,"Walmart to Downtown",,1,18,shp-7-01,0,0
+956010,7,3,"Walmart to Downtown",,1,66,shp-7-01,0,0
+957070,7,2,"Walmart to Downtown",,1,44,shp-7-01,0,0
+99070,7,2,"Walmart to Downtown",,1,44,shp-7-01,0,0
+832020,7,1,"Walmart to Downtown",,1,291,shp-7-01,0,0
+839010,7,3,"Walmart to Downtown",,1,66,shp-7-01,0,0
+757010,7,3,"Walmart to Downtown",,1,66,shp-7-01,0,0
+747020,7,1,"Walmart to Downtown",,1,3,shp-7-01,0,0
+501070,7,2,"Walmart to Downtown",,1,50,shp-7-01,0,0
+500020,7,1,"Walmart to Downtown",,1,16,shp-7-01,0,0
+491070,7,2,"Walmart to Downtown",,1,44,shp-7-01,0,0
+532020,7,1,"Walmart to Downtown",,1,291,shp-7-01,0,0
+548010,7,3,"Walmart to Downtown",,1,66,shp-7-01,0,0
+551020,7,1,"Walmart to Downtown",,1,16,shp-7-01,0,0
+575020,7,1,"Walmart to Downtown",,1,3,shp-7-01,0,0
+68020,7,1,"Walmart to Downtown",,1,291,shp-7-01,0,0
+628020,7,1,"Walmart to Downtown",,1,8,shp-7-01,0,0
+618020,7,1,"Walmart to Downtown",,1,8,shp-7-01,0,0
+720070,7,2,"Walmart to Downtown",,1,44,shp-7-01,0,0
+737010,7,3,"Walmart to Downtown",,1,66,shp-7-01,0,0
+700070,7,2,"Walmart to Downtown",,1,50,shp-7-01,0,0
+7020,7,1,"Walmart to Downtown",,1,272,shp-7-01,0,0
+699020,9,1,"Community Medical Center to Downtown",,1,282,shp-9-01,0,0
+730020,9,1,"Community Medical Center to Downtown",,1,281,shp-9-01,0,0
+651020,9,1,"Community Medical Center to Downtown",,1,281,shp-9-01,0,0
+400020,9,1,"Community Medical Center to Downtown",,1,282,shp-9-01,0,0
+476020,9,1,"Community Medical Center to Downtown",,1,281,shp-9-01,0,0
+1049020,9,1,"Community Medical Center to Downtown",,1,282,shp-9-01,0,0
+1063020,9,1,"Downtown to Community Medical Center",,0,281,shp-9-51,0,0
+177020,9,1,"Downtown to Community Medical Center",,0,281,shp-9-51,0,0
+370020,9,1,"Downtown to Community Medical Center",,0,282,shp-9-51,0,0
+753020,9,1,"Downtown to Community Medical Center",,0,282,shp-9-51,0,0
+816020,9,1,"Downtown to Community Medical Center",,0,281,shp-9-51,0,0
+928020,9,1,"Downtown to Community Medical Center",,0,282,shp-9-51,0,0
+894020,Short,1,"Downtown to East Missoula",,0,23,shp-Short-51,0,0
+84020,Short,1,"Downtown to East Missoula",,0,23,shp-Short-51,0,0
+831020,Short,1,"Downtown to East Missoula",,0,25,shp-Short-51,0,0
+23020,Short,1,"Downtown to East Missoula",,0,25,shp-Short-51,0,0
+142020,Short,1,"Downtown to East Missoula",,0,25,shp-Short-51,0,0
+1011020,Short,1,"Downtown to East Missoula",,0,23,shp-Short-51,0,0
+126020,Short,1,"East Missoula to Downtown",,1,23,shp-Short-01,0,0
+347020,Short,1,"East Missoula to Downtown",,1,25,shp-Short-01,0,0
+989020,Short,1,"East Missoula to Downtown",,1,25,shp-Short-01,0,0
+990020,Short,1,"East Missoula to Downtown",,1,23,shp-Short-01,0,0
+638020,Short,1,"East Missoula to Downtown",,1,25,shp-Short-01,0,0
+683020,Short,1,"East Missoula to Downtown",,1,23,shp-Short-01,0,0

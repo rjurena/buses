@@ -1,0 +1,14 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+1,1,1,Route 1,,3,,4a6670,ffffff
+10,1,10,Route 10,,3,,ffd200,000000
+11,1,11,Route 11,,3,,8d3616,ffffff
+12,1,12,Route 12,,3,,507255,ffffff
+14,1,14,Route 14,,3,,6e6e72,ffffff
+2,1,2,Route 2,,3,,c5308e,ffffff
+3,1,3,Route 3,,3,,3ca117,000000
+4,1,4,Route 4,,3,,ca2b38,ffffff
+5,1,5,Route 5,,3,,19c2c1,000000
+6,1,6,Route 6,,3,,f08f2d,000000
+7,1,7,Route 7,,3,,7e4894,ffffff
+9,1,9,Route 9,,3,,4376d1,ffffff
+Short,1,4S,Route 4S,,3,,ca2b38,ffffff
